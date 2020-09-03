@@ -6,13 +6,21 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="spring-cloud-config-server" />
+        <module name="netflix-zuul-api-gateway-server" />
+        <module name="netflix-eureka-naming-server" />
+        <module name="currency-conversion-service" />
+        <module name="currency-exchange-service" />
         <module name="limits-service" />
+        <module name="spring-cloud-config-server" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="limits-service" target="11" />
-      <module name="spring-cloud-config-server" target="11" />
+      <module name="currency-conversion-service" target="1.8" />
+      <module name="currency-exchange-service" target="1.8" />
+      <module name="limits-service" target="1.8" />
+      <module name="netflix-eureka-naming-server" target="1.8" />
+      <module name="netflix-zuul-api-gateway-server" target="1.8" />
+      <module name="spring-cloud-config-server" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
