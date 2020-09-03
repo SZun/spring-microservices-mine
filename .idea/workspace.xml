@@ -2,42 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6debfc95-8653-4617-8e33-739df7481148" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/limits-service.properties" beforeDir="false" afterPath="$PROJECT_DIR$/limits-service.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spring-cloud-config-server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-config-server/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-services/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-services/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-services/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-services/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-services/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-services/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-services/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-services/src/main/java/com/zun/webservices/SwaggerConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-services/src/main/java/com/zun/webservices/WebServicesApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-services/src/main/java/com/zun/webservices/exceptions/CustomExceptionHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-services/src/main/java/com/zun/webservices/exceptions/ExceptionResponse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-services/src/main/java/com/zun/webservices/filtering/FilteringController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-services/src/main/java/com/zun/webservices/filtering/SomeBean.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-services/src/main/java/com/zun/webservices/helloworld/HelloWorldBean.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-services/src/main/java/com/zun/webservices/helloworld/HelloWorldController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-services/src/main/java/com/zun/webservices/user/Post.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-services/src/main/java/com/zun/webservices/user/PostRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-services/src/main/java/com/zun/webservices/user/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-services/src/main/java/com/zun/webservices/user/UserDao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-services/src/main/java/com/zun/webservices/user/UserNotFoundException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-services/src/main/java/com/zun/webservices/user/UserRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-services/src/main/java/com/zun/webservices/user/UserResource.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-services/src/main/java/com/zun/webservices/versioning/Name.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-services/src/main/java/com/zun/webservices/versioning/PersonV1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-services/src/main/java/com/zun/webservices/versioning/PersonV2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-services/src/main/java/com/zun/webservices/versioning/PersonVersioningController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-services/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-services/src/main/resources/data.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-services/src/main/resources/messages.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-services/src/main/resources/messages_fr.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-services/src/main/resources/messages_nl.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-services/src/test/java/com/zun/webservices/WebServicesApplicationTests.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/spring-cloud-config-server/target/" />
     <ignored path="$PROJECT_DIR$/limits-service/target/" />
@@ -55,11 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/spring-cloud-config-server/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="72">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+              <caret line="4" column="52" selection-start-line="4" selection-start-column="52" selection-end-line="4" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -100,7 +65,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spring-cloud-config-server/src/main/java/com/zun/springcloudconfigserver/SpringCloudConfigServerApplication.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
@@ -118,8 +83,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/spring-cloud-config-server/src/main/java/com/zun/springcloudconfigserver/SpringCloudConfigServerApplication.java" />
-        <option value="$PROJECT_DIR$/spring-cloud-config-server/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/limits-service.properties" />
+        <option value="$PROJECT_DIR$/spring-cloud-config-server/src/main/resources/application.properties" />
       </list>
     </option>
   </component>
@@ -167,6 +132,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -274,13 +240,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-config-server/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/limits-service.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
@@ -292,6 +251,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-config-server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="52" selection-start-line="4" selection-start-column="52" selection-end-line="4" selection-end-column="52" />
         </state>
       </provider>
     </entry>
